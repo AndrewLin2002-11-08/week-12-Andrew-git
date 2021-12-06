@@ -18,8 +18,13 @@ namespace week_12_Andrew
 
             Console.WriteLine("");
             Console.WriteLine("PRINT HASIL ? (y/n) . . .");
-            
-           
+            if ("user pick y") ;
+
+            Console.WriteLine("NO  NIM      NAMA            JENIS KELAMIN       TAHUN MASUK     PROGRAM STUDI       KELAS");
+            Console.WriteLine("1   001      ANDREW LIN      LAKI LAKI           2021            ISB                 ALPRO");
+            Console.WriteLine("");
+            Console.WriteLine("Tambah data? (y/n) . . .");
+            Console.WriteLine("");
         }
     }
 }
